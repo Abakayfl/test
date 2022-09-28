@@ -1,6 +1,7 @@
 # See the tests under cypress/e2e folder
 
 # Running Tests via terminal
+- Give `npm install` to install the dependencies
 - Give `npx cypress open`
 - Select `end to end test` option
 - Select `chrome browser` to access test dashboard
